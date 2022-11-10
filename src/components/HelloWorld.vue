@@ -32,7 +32,7 @@
   <br />
   <br />
 
-  <footer>Made by Abhishek Sultaniya</footer>
+  <footer>Made by Abhishek</footer>
   <footer></footer>
 
 </template>
